@@ -1,0 +1,13 @@
+.header{
+    height: 15vh;
+    width:100vw;
+    background-color: #FD8D00;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.logo{
+    width:200px;
+    margin:2%;
+}
